@@ -9,4 +9,3 @@ Selenide examples: Appium
 
 * And finally, run the test:
    > ./gradlew test
-gi
